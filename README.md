@@ -20,4 +20,6 @@ Following the tutorial of JavaScript Mastery | https://www.youtube.com/channel/U
 ## How to use :
  It is simple. If you have a Google account you can connect via Google and start chatting right away !
  I will add a E-mail Password login in the near future.
- 
+
+## Source Code :
+You can find the source code of this project in the master's branch.
