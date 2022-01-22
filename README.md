@@ -1,5 +1,8 @@
 # ha_chat_app
 
+!Sample Image(https://github.com/Funkix6/ha_chat_app/blob/main/sample.jpg?raw=true)
+
+
 ## How is it made
 
 This chat application is made with :
