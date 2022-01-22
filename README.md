@@ -26,4 +26,4 @@ Following the tutorial of JavaScript Mastery | https://www.youtube.com/channel/U
 
 ## Source Code :
 You can find the source code of this project in the master's branch.
-- https://github.com/Funkix6/ha_chat_app/blob/master/
+- https://github.com/Funkix6/ha_chat_app/tree/master
