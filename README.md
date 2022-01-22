@@ -20,7 +20,6 @@ FIREBASE_PROJECT_ID=
 FIREBASE_STORAGE_BUCKET=
 FIREBASE_MESSENGING_SENDER_ID=
 FIREBASE_APP_ID=
-
 ```
 
 6. then copy paste the right value in the .env file from you Firebase and ChatEngine projects naming in .env should be self explainatory.
