@@ -23,7 +23,7 @@ FIREBASE_APP_ID=
 ```
 
 6. then copy paste the right value in the .env file from you Firebase and ChatEngine projects naming in .env should be self explainatory.
-7. You might also have to had you local ip in Firebase -> Auth -> Sign-in methods -> domains authorized otherwise API calls might not work.
+7. You might also have to had your local ip in Firebase -> Auth -> Sign-in methods -> domains authorized otherwise API calls might not work.
 
 ### Run
 6. Now run "npm run start" and go to http://localhost:3000/
