@@ -1,6 +1,6 @@
 # ha_chat_app
 
-!Sample Image(https://github.com/Funkix6/ha_chat_app/blob/main/Sample.PNG?raw=true)
+![Sample Image](https://github.com/Funkix6/ha_chat_app/blob/main/Sample.PNG?raw=true)
 
 
 ## How is it made
