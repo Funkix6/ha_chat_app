@@ -1,15 +1,17 @@
-# Unichat Application
+### Chat Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+This is the source code for the chat application.
 
-## Introduction
+## How to reproduce :
+### Get the code
+1. You can clone the repository in a local folder or just download the Zip file and unpack it.
+2. Run "npm install" to install all dependencies
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+### Environnement Variables
+3. You will need to create a Firebase and a chatengine account and setup your project
+4. then copy paste the right value in the .env file from you Firebase and ChatEngine projects naming in .env should be self explainatory.
+5. You might also have to had you local ip in Firebase -> Auth -> Sign-in methods -> domains authorized otherwise API calls might not work.
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
-
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
-
-### Bonus - E-mail notifications
-
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+### Run
+6. Now run "npm run start" and go to http://localhost:3000/
+7. Et voilà !
