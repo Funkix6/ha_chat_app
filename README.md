@@ -11,6 +11,15 @@ This is the source code for the chat application.
 3. You will need to create a Firebase and a chatengine account and setup your project
 4. Create a .env file at the root of the project and add :
 ```
+REACT_APP_CHAT_ENGINE_KEY= 
+REACT_APP_CHAT_ENGINE_ID=
+
+FIREBASE_API_KEY=
+FIREBASE_AUTH_DOMAINS=
+FIREBASE_PROJECT_ID=
+FIREBASE_STORAGE_BUCKET=
+FIREBASE_MESSENGING_SENDER_ID=
+FIREBASE_APP_ID=
 
 ```
 
